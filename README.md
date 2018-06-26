@@ -2,7 +2,7 @@
 
 This repo has a basic example of using pybind11 from CMake.
 
-More details are available from [here](https://hopstorawpointers.blogspot.com/blog_name)
+More details are available from [here](https://hopstorawpointers.blogspot.com/2018/06/using-c-code-from-python-with-pybind11.html)
 
 Requirments:
 
